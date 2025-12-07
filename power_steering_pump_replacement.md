@@ -223,6 +223,10 @@ The two o-rings included with the remanufactured pump (marked **43343K**) have a
 
 **Note:** If experiencing leaks after installation, verify o-ring cross-section compatibility. The rectangular cross-section o-rings may be required for the high-pressure fitting on this vehicle.
 
+### Parts Availability Update
+
+**2025-12-07:** AutoZone will have o-rings available tomorrow (2025-12-08) after 9:00 AM.
+
 ## Notes
 
 - Power steering fluid is flammable - dispose of properly
