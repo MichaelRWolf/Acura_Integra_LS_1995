@@ -206,6 +206,23 @@ The power steering pump is typically mounted on an adjustable bracket that allow
 4. Check belt condition and tension monthly
 5. Replace fluid every 30,000-50,000 miles
 
+## Status
+
+**Installation Date:** 2025-12-07
+
+New remanufactured pump installed. Full system flush performed using 2 quarts of power steering fluid.
+
+### O-Ring Issue and Solution
+
+The two o-rings included with the remanufactured pump (marked **43343K**) have a **circular cross-section**. When used on the high-pressure connection, these created a **massive leak**.
+
+**Solution:**
+- **High-pressure connection:** Used original black o-ring with **rectangular cross-section** (from old pump)
+- **Low-pressure connection:** Kept new red o-ring with circular cross-section
+- System operates correctly with this combination
+
+**Note:** If experiencing leaks after installation, verify o-ring cross-section compatibility. The rectangular cross-section o-rings may be required for the high-pressure fitting on this vehicle.
+
 ## Notes
 
 - Power steering fluid is flammable - dispose of properly
