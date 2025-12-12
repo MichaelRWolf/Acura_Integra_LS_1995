@@ -26,8 +26,19 @@
 
 - New or rebuilt power steering pump
 - Power steering fluid (Honda/Acura PSF or equivalent)
-- O-rings for fittings (if not included with pump)
 - Power steering belt (if worn or damaged)
+
+- O-rings for fittings (if not included with pump or if replacement needed):
+  - **High-pressure:** Honda part 91370-SK7-003 (Viton)
+  - **Low-pressure:** Honda part 91371-SK7-003
+  - **Replacement options:**
+    - [AcuraPartsWarehouse - 91370-SM4-004 Power Steering Pump O-Ring](https://www.acurapartswarehouse.com/oem/acura~o~ring~11x1~9~arai~91370-sm4-004.html)
+    - [BernardiParts - 91370-SM4-004 O-RING (11X1.9) (ARAI)](https://www.bernardiparts.com/Honda-O-RING-11X19-ARAI__91370-SM4-004.aspx?srsltid=AfmBOorz7ChPPaPmHMHIZL-T1buYhsANza7-_U7K38cZEfMusvPrnM2b)
+    - [BernardiParts - 91345-PY3-000 O-RING (13.0X1.9)](https://acura.bernardiparts.com/Products/O-RING-(130X19)__91345-PY3-000.aspx)
+
+Trying to correlate parts to online drawings:
+| Low pressure  | O-RING (13.0X1.9)      |
+| High pressure | O-Ring (11X1.9) (Arai) |
 
 ## Belt Configuration
 
@@ -107,29 +118,33 @@ The power steering pump is typically mounted on an adjustable bracket that allow
 
 1. Position new pump in mounting location
 2. Align pump with mounting holes
-3. Install mounting bolts hand-tight first
-4. Tighten bolts to specification (typically 30-40 ft-lbs)
+3. Install pump mounting slot bolts (2 bolts) hand-tight first
+4. Tighten pump mounting slot bolts to **18 ft-lbs**
 5. Use torque wrench for final tightening
 6. Verify pump is secure and properly aligned
 
 ### Step 8: Reconnect Power Steering Lines
 
 1. Remove caps/plugs from line fittings
-2. Install new O-rings on fittings (if provided)
-3. Connect high-pressure line to pump
-4. Tighten fitting securely (typically 25-30 ft-lbs)
-5. Connect return line to pump
-6. Verify all connections are tight
+2. **O-rings:** Replace only if bad; use Honda-sized o-rings:
+   - **High-pressure:** Honda part 91370-SK7-003 (Viton)
+   - **Low-pressure:** Honda part 91371-SK7-003
+3. Install new O-rings on fittings if replacing
+4. Connect high-pressure line to pump (high-pressure tube block)
+5. Tighten high-pressure tube block bolts (2 × M10 bolts) to **16 ft-lbs**
+6. Connect low-pressure line to pump (low-pressure tube block)
+7. Tighten low-pressure tube block bolt (1 × M10 bolt) to **16 ft-lbs**
+8. Verify all connections are tight
 
 ### Step 9: Install Power Steering Belt
 
 1. Route belt according to original configuration
 2. Slip belt over power steering pump pulley and crankshaft pulley
-3. Loosen power steering pump adjustment bolt (on pump bracket)
+3. Loosen power steering pump adjustment mechanism
 4. Pull power steering pump away from engine to create belt tension
 5. Verify belt is properly seated on all pulleys
-6. Tighten power steering pump pivot bolt (if present)
-7. Tighten power steering pump adjustment bolt
+6. Tighten wing-nut adjuster to **finger-tight** only
+7. Tighten power steering pump pivot bolt (if present)
 8. Check belt tension (should have 1/2 inch deflection at midpoint between pulleys)
 9. **Note:** Power steering belt is separate from alternator belt - ensure correct belt is installed
 
@@ -162,11 +177,15 @@ The power steering pump is typically mounted on an adjustable bracket that allow
 
 ## Torque Specifications
 
-- Power steering pump mounting bolts: 30-40 ft-lbs
-- Power steering pump adjustment bolt: 15-20 ft-lbs (on bracket)
-- Power steering pump pivot bolt: 30-40 ft-lbs (if present)
-- High-pressure line fitting: 25-30 ft-lbs
-- **Note:** Alternator belt is separate - if you remove alternator belt for access, alternator pivot bolt: 30-40 ft-lbs, alternator adjustment bolt: 15-20 ft-lbs
+- **High-pressure tube block:** 2 × M10 bolts - 16 ft-lbs
+- **Low-pressure tube block:** 1 × M10 bolt - 16 ft-lbs
+- **Pump mounting slot bolts:** 2 bolts - 18 ft-lbs
+- **Wing-nut adjuster:** Finger-tight only
+- **O-rings:** Replace only if bad; use Honda-sized:
+  - High-pressure: 91370-SK7-003 (Viton)
+  - Low-pressure: 91371-SK7-003
+
+**Note:** Alternator belt is separate - if you remove alternator belt for access, alternator pivot bolt: 30-40 ft-lbs, alternator adjustment bolt: 15-20 ft-lbs
 
 ## Common Issues and Solutions
 
@@ -226,6 +245,14 @@ The two o-rings included with the remanufactured pump (marked **43343K**) have a
 ### Parts Availability Update
 
 **2025-12-07:** AutoZone will have o-rings available tomorrow (2025-12-08) after 9:00 AM.
+
+They were not correct.  It was a remanufacture kit.  I did not purchase it.
+
+### Seal Replacement Update
+
+**2025-12-07:** Replaced original seal on low pressure line. Now BOTH snouts have original seals.
+
+
 
 ## Notes
 
